@@ -9,12 +9,13 @@
   <a href="https://maksforge.com"><b>maksforge.com</b></a> · <a href="https://buymeacoffee.com/maksforge">☕ Buy me a coffee</a>
 </p>
 
-### 🟢 Live on Google Play
+### 🟢 Live on Google Play and the Chrome Web Store
 
 | | | |
 |---|---|---|
 | <a href="https://play.google.com/store/apps/details?id=binky.bunny.and.rabbit.tracker"><img src="https://maksforge.com/assets/icons/binky.webp" width="48" alt="Binky icon"></a> | **[Binky](https://play.google.com/store/apps/details?id=binky.bunny.and.rabbit.tracker)** | Track your rabbit's weight, health and care. · [website](https://maksforge.com/binky-app/) · [code](https://github.com/maksforge/binky-app) |
 | <a href="https://play.google.com/store/apps/details?id=io.github.srednimax.gloam"><img src="https://maksforge.com/assets/icons/gloam.webp" width="48" alt="Gloam icon"></a> | **[Gloam](https://play.google.com/store/apps/details?id=io.github.srednimax.gloam)** | Dim the screen below Android's lowest brightness. · [website](https://maksforge.com/gloam/) · [code](https://github.com/maksforge/gloam) |
+| <a href="https://chromewebstore.google.com/detail/dark-theme-for-play-conso/fgihoebnjomkgmhibmfcefkofiipfnnl"><img src="https://maksforge.com/assets/icons/play-console-dark-theme.webp" width="48" alt="Dark Theme for Play Console icon"></a> | **[Dark Theme for Play Console](https://chromewebstore.google.com/detail/dark-theme-for-play-conso/fgihoebnjomkgmhibmfcefkofiipfnnl)** | Chrome extension that switches on Play Console's hidden dark palette. Unofficial, not affiliated with Google. · [code](https://github.com/maksforge/play-console-dark-theme) |
 
 ### 🛠️ In development
 
@@ -22,7 +23,6 @@
 |---|---|---|
 | <a href="https://maksforge.com/urgent/"><img src="https://maksforge.com/assets/icons/urgent.webp" width="48" alt="Urgent call icon"></a> | **[Urgent call](https://maksforge.com/urgent/)** | Rings when the same number calls twice within a few minutes, even on silent. · [code](https://github.com/maksforge/urgent) |
 | <a href="https://maksforge.com/kozica/"><img src="https://maksforge.com/assets/icons/kozica.webp" width="48" alt="Kozica icon"></a> | **[Kozica](https://maksforge.com/kozica/)** | Offline trail map of the Polish mountains. · [code](https://github.com/maksforge/kozica) |
-| <a href="https://github.com/maksforge/play-console-dark-theme"><img src="https://maksforge.com/assets/icons/play-console-dark-theme.webp" width="48" alt="Dark Theme for Play Console icon"></a> | **[Dark Theme for Play Console](https://github.com/maksforge/play-console-dark-theme)** | Chrome extension that switches on Play Console's hidden dark palette. Unofficial, not affiliated with Google. |
 
 ### 🧰 Open source tools
 
