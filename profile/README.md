@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  Browse: <a href="https://github.com/orgs/maksforge/repositories?q=topic%3Agoogle-play-app">📱 Google Play apps</a> · <a href="https://github.com/orgs/maksforge/repositories?q=topic%3Achrome-extension">🧩 Chrome extensions</a> · <a href="https://github.com/orgs/maksforge/repositories?q=topic%3Atemplate">🧰 Templates</a> · <a href="https://github.com/orgs/maksforge/repositories?q=topic%3Amaksforge-website">🌐 Website</a>
+  Browse: <a href="https://github.com/orgs/maksforge/repositories?q=topic%3Agoogle-play-app">📱 Android apps</a> · <a href="https://github.com/orgs/maksforge/repositories?q=topic%3Achrome-extension">🧩 Chrome extensions</a> · <a href="https://github.com/orgs/maksforge/repositories?q=topic%3Atemplate">🧰 Templates</a> · <a href="https://github.com/orgs/maksforge/repositories?q=topic%3Amaksforge-website">🌐 Website</a>
 </p>
 
 ### 🟢 Live on Google Play and the Chrome Web Store
