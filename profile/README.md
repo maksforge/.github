@@ -27,6 +27,7 @@
 |---|---|---|
 | <a href="https://maksforge.com/urgent/"><img src="https://maksforge.com/assets/icons/urgent.webp" width="48" alt="Urgent call icon"></a> | **[Urgent call](https://maksforge.com/urgent/)** | Rings when the same number calls twice within a few minutes, even on silent. · [code](https://github.com/maksforge/urgent) |
 | <a href="https://maksforge.com/kozica/"><img src="https://maksforge.com/assets/icons/kozica.webp" width="48" alt="Kozica icon"></a> | **[Kozica](https://maksforge.com/kozica/)** | Offline trail map of the Polish mountains. · [code](https://github.com/maksforge/kozica) |
+| <a href="https://maksforge.com/darek/"><img src="https://maksforge.com/assets/icons/darek.webp" width="48" alt="Darek icon"></a> | **[Darek](https://maksforge.com/darek/)** | Polish voice assistant that opens your gate with a phone call, offline. · [code](https://github.com/maksforge/darek) |
 
 ### 🎮 World of Tanks mods
 
