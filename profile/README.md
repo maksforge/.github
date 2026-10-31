@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  Browse: <a href="https://github.com/orgs/maksforge/repositories?q=topic%3Agoogle-play-app">📱 Android apps</a> · <a href="https://github.com/orgs/maksforge/repositories?q=topic%3Achrome-extension">🧩 Chrome extensions</a> · <a href="https://github.com/orgs/maksforge/repositories?q=topic%3Atemplate">🧰 Templates</a> · <a href="https://github.com/orgs/maksforge/repositories?q=topic%3Amaksforge-website">🌐 Website</a>
+  Browse: <a href="https://github.com/orgs/maksforge/repositories?q=topic%3Agoogle-play-app">📱 Android apps</a> · <a href="https://github.com/orgs/maksforge/repositories?q=topic%3Achrome-extension">🧩 Chrome extensions</a> · <a href="https://github.com/orgs/maksforge/repositories?q=topic%3Aworld-of-tanks-mod">🎮 World of Tanks mods</a> · <a href="https://github.com/orgs/maksforge/repositories?q=topic%3Atemplate">🧰 Templates</a> · <a href="https://github.com/orgs/maksforge/repositories?q=topic%3Amaksforge-website">🌐 Website</a>
 </p>
 
 ### 🟢 Live on Google Play and the Chrome Web Store
@@ -27,6 +27,13 @@
 |---|---|---|
 | <a href="https://maksforge.com/urgent/"><img src="https://maksforge.com/assets/icons/urgent.webp" width="48" alt="Urgent call icon"></a> | **[Urgent call](https://maksforge.com/urgent/)** | Rings when the same number calls twice within a few minutes, even on silent. · [code](https://github.com/maksforge/urgent) |
 | <a href="https://maksforge.com/kozica/"><img src="https://maksforge.com/assets/icons/kozica.webp" width="48" alt="Kozica icon"></a> | **[Kozica](https://maksforge.com/kozica/)** | Offline trail map of the Polish mountains. · [code](https://github.com/maksforge/kozica) |
+
+### 🎮 World of Tanks mods
+
+| | | |
+|---|---|---|
+| <a href="https://github.com/maksforge/wot-autoloader-timer/releases/latest"><img src="https://maksforge.com/assets/icons/wot-autoloader-timer.webp" width="48" alt="Autoloader Shell Timer icon"></a> | **[Autoloader Shell Timer](https://github.com/maksforge/wot-autoloader-timer/releases/latest)** | Shows the load time of every shell in an autoreloader magazine. · [code](https://github.com/maksforge/wot-autoloader-timer) |
+| <a href="https://github.com/maksforge/wot-ping-distance/releases/latest"><img src="https://maksforge.com/assets/icons/wot-ping-distance.webp" width="48" alt="Ping Distance icon"></a> | **[Ping Distance](https://github.com/maksforge/wot-ping-distance/releases/latest)** | Keeps the distance visible on map position pings. · [code](https://github.com/maksforge/wot-ping-distance) |
 
 ### 🧰 Open source tools
 
