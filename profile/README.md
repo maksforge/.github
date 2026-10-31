@@ -15,11 +15,18 @@
 
 ### 🟢 Live on Google Play, the Chrome Web Store and GitHub
 
+#### 📱 Android apps
+
 | | | |
 |---|---|---|
 | <a href="https://play.google.com/store/apps/details?id=binky.bunny.and.rabbit.tracker"><img src="https://maksforge.com/assets/icons/binky.webp" width="48" alt="Binky icon"></a> | **[Binky](https://play.google.com/store/apps/details?id=binky.bunny.and.rabbit.tracker)** | Track your rabbit's weight, health and care. · [website](https://maksforge.com/binky-app/) · [code](https://github.com/maksforge/binky-app) |
 | <a href="https://play.google.com/store/apps/details?id=io.github.srednimax.gloam"><img src="https://maksforge.com/assets/icons/gloam.webp" width="48" alt="Gloam icon"></a> | **[Gloam](https://play.google.com/store/apps/details?id=io.github.srednimax.gloam)** | Dim the screen below Android's lowest brightness. · [website](https://maksforge.com/gloam/) · [code](https://github.com/maksforge/gloam) |
-| <a href="https://chromewebstore.google.com/detail/dark-theme-for-play-conso/fgihoebnjomkgmhibmfcefkofiipfnnl"><img src="https://maksforge.com/assets/icons/play-console-dark-theme.webp" width="48" alt="Dark Theme for Play Console icon"></a> | **[Dark Theme for Play Console](https://chromewebstore.google.com/detail/dark-theme-for-play-conso/fgihoebnjomkgmhibmfcefkofiipfnnl)** | Chrome extension that switches on Play Console's hidden dark palette. Unofficial, not affiliated with Google. · [website](https://maksforge.com/play-console-dark-theme/) · [code](https://github.com/maksforge/play-console-dark-theme) |
+
+#### 🧩 Chrome extensions
+
+| | | |
+|---|---|---|
+| <a href="https://chromewebstore.google.com/detail/dark-theme-for-play-conso/fgihoebnjomkgmhibmfcefkofiipfnnl"><img src="https://maksforge.com/assets/icons/play-console-dark-theme.webp" width="48" alt="Dark Theme for Play Console icon"></a> | **[Dark Theme for Play Console](https://chromewebstore.google.com/detail/dark-theme-for-play-conso/fgihoebnjomkgmhibmfcefkofiipfnnl)** | Switches on Play Console's hidden dark palette. Unofficial, not affiliated with Google. · [website](https://maksforge.com/play-console-dark-theme/) · [code](https://github.com/maksforge/play-console-dark-theme) |
 
 #### 🎮 World of Tanks mods
 
