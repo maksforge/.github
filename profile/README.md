@@ -26,7 +26,7 @@
 
 | | | |
 |---|---|---|
-| <a href="https://chromewebstore.google.com/detail/dark-theme-for-play-conso/fgihoebnjomkgmhibmfcefkofiipfnnl"><img src="https://maksforge.com/assets/icons/play-console-dark-theme.webp" width="48" alt="Dark Theme for Play Console icon"></a> | **[Dark Theme for Play Console](https://chromewebstore.google.com/detail/dark-theme-for-play-conso/fgihoebnjomkgmhibmfcefkofiipfnnl)** | Chrome extension that switches on Play Console's hidden dark palette. Unofficial, not affiliated with Google. · [website](https://maksforge.com/play-console-dark-theme/) · [code](https://github.com/maksforge/play-console-dark-theme) |
+| <a href="https://chromewebstore.google.com/detail/dark-theme-for-play-conso/fgihoebnjomkgmhibmfcefkofiipfnnl"><img src="https://maksforge.com/assets/icons/play-console-dark-theme.webp" width="48" alt="Dark Theme for Play Console icon"></a> | **[Dark Theme for Play Console](https://chromewebstore.google.com/detail/dark-theme-for-play-conso/fgihoebnjomkgmhibmfcefkofiipfnnl)** | Switches on Play Console's hidden dark palette. Unofficial, not affiliated with Google. · [website](https://maksforge.com/play-console-dark-theme/) · [code](https://github.com/maksforge/play-console-dark-theme) |
 
 #### 🎮 World of Tanks mods
 
