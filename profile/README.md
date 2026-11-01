@@ -48,3 +48,4 @@
 | | | |
 |---|---|---|
 | <a href="https://github.com/maksforge/android-starter"><img src="https://maksforge.com/assets/icons/android-starter.webp" width="48" alt="Android starter icon"></a> | **[Android starter](https://github.com/maksforge/android-starter)** | Template for offline Android apps: Compose, release pipeline, CI gates. |
+| <a href="https://github.com/maksforge/wot-mod-template"><img src="https://maksforge.com/assets/icons/wot-mod-template.webp" width="48" alt="WoT mod template icon"></a> | **[WoT mod template](https://github.com/maksforge/wot-mod-template)** | Template for World of Tanks mods: Python 2.7 build, game stubs for tests, CI and tagged releases. |
