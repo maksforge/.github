@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  Browse: <a href="https://github.com/orgs/maksforge/repositories?q=topic%3Agoogle-play-app">📱 Android apps</a> · <a href="https://github.com/orgs/maksforge/repositories?q=topic%3Achrome-extension">🧩 Chrome extensions</a> · <a href="https://github.com/orgs/maksforge/repositories?q=topic%3Aworld-of-tanks-mod">🎮 World of Tanks mods</a> · <a href="https://github.com/orgs/maksforge/repositories?q=topic%3Atemplate">🧰 Templates</a> · <a href="https://github.com/orgs/maksforge/repositories?q=topic%3Amaksforge-website">🌐 Website</a>
+  Browse: <a href="https://github.com/orgs/maksforge/repositories?q=topic%3Agoogle-play-app">📱 Android apps</a> · <a href="https://github.com/orgs/maksforge/repositories?q=topic%3Achrome-extension">🧩 Chrome extensions</a> · <a href="https://github.com/orgs/maksforge/repositories?q=topic%3Aworld-of-tanks-mod">🎮 World of Tanks mods</a> · <a href="https://github.com/orgs/maksforge/repositories?q=topic%3Atemplate">🧰 Templates</a> · <a href="https://github.com/orgs/maksforge/repositories?q=topic%3Atool">⚙️ Tools</a> · <a href="https://github.com/orgs/maksforge/repositories?q=topic%3Amaksforge-website">🌐 Website</a>
 </p>
 
 ### 🟢 Live on Google Play, the Chrome Web Store and GitHub
@@ -49,3 +49,4 @@
 |---|---|---|
 | <a href="https://github.com/maksforge/android-starter"><img src="https://maksforge.com/assets/icons/android-starter.webp" width="48" alt="Android starter icon"></a> | **[Android starter](https://github.com/maksforge/android-starter)** | Template for offline Android apps: Compose, release pipeline, CI gates. |
 | <a href="https://github.com/maksforge/wot-mod-template"><img src="https://maksforge.com/assets/icons/wot-mod-template.webp" width="48" alt="WoT mod template icon"></a> | **[WoT mod template](https://github.com/maksforge/wot-mod-template)** | Template for World of Tanks mods: Python 2.7 build, game stubs for tests, CI and tagged releases. |
+| <a href="https://github.com/maksforge/wgmods-cli"><img src="https://maksforge.com/assets/icons/wgmods-cli.webp" width="48" alt="wgmods CLI icon"></a> | **[wgmods CLI](https://github.com/maksforge/wgmods-cli)** | Uploads a new World of Tanks mod version to the official Mod Hub (wgmods.net) from the terminal. Unofficial, not affiliated with Wargaming. |
